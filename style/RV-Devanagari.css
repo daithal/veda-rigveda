@@ -1,6 +1,6 @@
 @font-face {
 Font-family: 'Devanagari';
-src: url('TiroDevanagariSanskrit-Regular.ttf')}
+src: url('AdishilaVedic.ttf')}
 .Devanagari {
 font-family: 'Devanagari' !important}
 table {
@@ -28,13 +28,13 @@ font-family: 'Devanagari';
 background-color: #eeeeee;
 line-height: 90%;
 padding: 12px;
-font-size: 170%}
+font-size: 165%}
 .VargaStyle2 {
 font-family: 'Devanagari';
 background-color: #d1e0e0;
 line-height: 90%;
 padding: 12px;
-font-size: 170%}
+font-size: 165%}
 .RishiDevChandas {
 padding: 2px;
 margin: 1px;
