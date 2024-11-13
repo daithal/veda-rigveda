@@ -23,13 +23,13 @@ padding: 4px;
 margin: 2px;
 background-color: #ffcc99;
 font-size: 130%}
-.VargaColorType1 {
+.VargaStyle1 {
 font-family: 'Noto Sans Malayalam';
 background-color: #eeeeee;
 line-height: 90%;
 padding: 12px;
 font-size: 155%}
-.VargaColorType2 {
+.VargaStyle2 {
 font-family: 'Noto Sans Malayalam';
 background-color: #d1e0e0;
 line-height: 90%;
@@ -47,5 +47,5 @@ margin: 1px;
 font-size: 50%;
 color: blue;
 margin: 1px}
-.red {color: red}
-.black {color: black}
+.style1 {color: Black}
+.style2 {color: MediumSlateBlue}
