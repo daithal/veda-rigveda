@@ -581,7 +581,7 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 <table style="width:100%">
 	<tr valign="top">
 		<td style="text-align: center">
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).html">ಪರಿಶಿಷ್ಟ (ಖಿಲ)</a>
+			ಪರಿಶಿಷ್ಟ (ಖಿಲ) <a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).html">HTML</a> <a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/RVKHILA(Kannada).pdf">PDF</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/RVKHILA(Devanagari).html">परिशिष्ट (खिल)</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/RVKHILA(Tamil).html">பரிஶிஷ்ட (கி²ல)</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/RVKHILA(Telugu).html">పరిశిష్ట (ఖిల)</a>
@@ -622,9 +622,9 @@ If anyone is interested in practicing Rigveda Samhita (Sringeri style of chantin
 
 ## ಆಯ್ದ ಸಸ್ವರ ಋಗ್ವೇದ ಸೂಕ್ತಗಳು
 1.	ವೇದಪಾರಾಯಣ ಆರಂಭ ಮಂತ್ರಾಣಿ <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Kannada).html">HTML</a> <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/vedapArAyaNa-Arambha-mantrANi(Kannada).pdf">PDF</a>
-2.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada).html">ಗಣೇಶ ಸೂಕ್ತ</a>
-3.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada).html">ಐಕಮತ್ಯ ಸೂಕ್ತ</a>
-4.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada).html">ಪುರುಷ ಸೂಕ್ತ</a>
+2.	ಗಣೇಶ ಸೂಕ್ತ <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada).html">HTML</a> <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/gaNesha-sUkta(Kannada).pdf">PDF</a>
+3.	ಐಕಮತ್ಯ ಸೂಕ್ತ <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada).html">HTML</a> <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/aikamatya-sUkta(Kannada).pdf">PDF</a>
+4.	ಪುರುಷ ಸೂಕ್ತ <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada).html">HTML</a> <a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/puruSha-sUkta(Kannada).pdf">PDF</a>
 5.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/brahmaNaspati-sUkta(Kannada).html">ಬ್ರಹ್ಮಣಸ್ಪತಿ ಸೂಕ್ತ</a>
 6.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/viShNu-sUkta(Kannada).html">ವಿಷ್ಣು ಸೂಕ್ತ</a>
 7.	<a href="https://daithal.github.io/saswara-rigveda/VisheshaSuktas/paMcharudra-sUkta(Kannada).html">ಪಂಚರುದ್ರ ಸೂಕ್ತ</a>
