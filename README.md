@@ -432,7 +432,8 @@ Releasing Rigveda Samhita in 4 different formats (svaroopa) with svara (anudatta
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Malayalam/Ashtaka/Format1/RVS-Malayalam-F1-A04.html">അഷ്ടക-4</a>
 		</td>
 		<td>
-			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A04.html">ಅಷ್ಟಕ-4</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A04.html">ಅಷ್ಟಕ-4 (HTML)</a>
+			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Kannada/Ashtaka/Format2/RVS-Kannada-F2-A04.pdf">ಅಷ್ಟಕ-4 (PDF)</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Devanagari/Ashtaka/Format2/RVS-Devanagari-F2-A04.html">अष्टक-4</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Telugu/Ashtaka/Format2/RVS-Telugu-F2-A04.html">అష్టక-4</a>
 			<a href="https://daithal.github.io/saswara-rigveda/Rigveda/SamhitaPatha/Tamil/Ashtaka/Format2/RVS-Tamil-F2-A04.html">அஷ்டக-4</a>
